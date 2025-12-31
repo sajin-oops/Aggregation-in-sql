@@ -16,7 +16,9 @@ INSERT INTO marks VALUES
 
 --Count
 SELECT COUNT(*) FROM marks;
-
 -- It will tell the total number of rows
 
- 
+
+--Sum
+SELECT SUM(score) FROM marks;
+
