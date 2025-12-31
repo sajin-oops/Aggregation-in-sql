@@ -22,3 +22,7 @@ SELECT COUNT(*) FROM marks;
 --Sum
 SELECT SUM(score) FROM marks;
 
+--Avg
+SELECT AVG(score) FROM marks;
+
+SELECT MIN(score),MAX(score) FROM marks;
