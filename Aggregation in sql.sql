@@ -13,3 +13,10 @@ INSERT INTO marks VALUES
 (2,'Science',75),
 (3,'Maths',95);
 
+
+--Count
+SELECT COUNT(*) FROM marks;
+
+-- It will tell the total number of rows
+
+ 
